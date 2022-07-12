@@ -6,7 +6,7 @@ import List from "./List";
 
 function App() {
   const arr = ["nikhil", "pawan", "mithu", "mummy", "baap"];
-  return <List arr={arr} />;
+  return <Kutta />;
 }
 
 export default App;
